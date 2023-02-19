@@ -1,0 +1,34 @@
+Inicio
+Se
+	Levantar do sofá
+então
+	Caminhar até o banheiro
+	Abrir a porta
+	Acender a luz
+	Entrar no banheiro
+FimSe
+
+Se 
+	Localizar a escova de dentes no ármario do banheiro
+	Localizar a pasta de dente no ármario do banheiro
+entao
+	Pegar a escova de dentes
+	Colocar a pasta de dentes na escova de dentes
+	Guardar a pasta de dentes
+	Escovar os dentes
+FimSe
+	
+	    Abra a torneira
+	    Enxaguar a boca
+	    Lavar a escova de dentes
+ 	    Feche a torneira
+	    Guardar a escova de dentes
+	    Apagar a luz
+	    Feche a porta do banheiro
+
+	    Caminhar até o sofá
+	    Sentar-se novamente
+
+Fimalgoritmo
+
+ 
